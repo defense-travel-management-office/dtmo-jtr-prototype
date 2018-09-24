@@ -4,6 +4,8 @@ This repository is a Jekyll prototype for viewing the [Joint Travel Regulations]
 
 It is currently an incomplete copy of the JTR and may not be up-to-date.
 
+You can view the demo site [here](https://federalist-proxy.app.cloud.gov/site/defense-travel-management-office/dtmo-jtr-prototype/)
+
 ### Public domain
 
 This project is in the worldwide [public domain](LICENSE.md).
